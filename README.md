@@ -49,6 +49,3 @@
     <h5 align="left">Operating Systems</h5> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 </div>
 
-<h2>Contribution Chart</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Navnoorsinghmahal/Navnoorsinghmahal/output/github-contribution-grid-snake.svg" />
