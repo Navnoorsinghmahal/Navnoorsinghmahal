@@ -32,6 +32,9 @@
   <a href="https://www.linkedin.com/in/navnoor-singh-mahal-a67488293/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://www.instagram.com/navnoorsinghmahal/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </div>
 
 <h2 align="left">My Tech Stack</h2>
