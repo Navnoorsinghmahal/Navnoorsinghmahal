@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👋;+I'm+Navnoor+Singh+Mahal!;+2nd+Year+CS+Student+at+UofT;" />
 </h1>
 
-## 📊 GitHub Stats:
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/Navnoorsinghmahal?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navnoorsinghmahal&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/Navnoorsinghmahal)
 
 <h2 align="left">A passionate Computer Science sophomore at UofT</h2>
