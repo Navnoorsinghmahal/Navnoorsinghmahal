@@ -8,8 +8,6 @@
 [![Navnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navnoorsinghmahal&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/Navnoorsinghmahal)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navnoorsinghmahal&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/Navnoorsinghmahal)
 
-## 🔗Website
-[Navnoor Singh Mahal](https://www.navnoorsinghmahal.com/)
 
 <h2 align="left">A passionate Computer Science sophomore at UofT</h2>
 <br/>
@@ -50,6 +48,3 @@
     <h5 align="left">Operating Systems</h5> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 </div>
 
-<h2>Contribution Chart</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Navnoorsinghmahal/Navnoorsinghmahal/output/github-contribution-grid-snake.svg" />
