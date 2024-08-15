@@ -45,7 +45,7 @@
     <br/>
     <h5 align="left">Tools and Platforms</h5> <img src="https://skillicons.dev/icons?i=git,github,npm,docker" />
     <br/>
-    <h5 align="left">Development Environment and IDE's</h5> <img src="https://skillicons.dev/icons?i=vscode" />
+    <h5 align="left">Development Environment and IDE's</h5> <img src="https://skillicons.dev/icons?i=vscode,webstorm,pycharm" /> <img src="https://img.shields.io/badge/-MySQL Workbench-000?&logo=mysql&logoColor=4479A1" />
     <br/>
     <h5 align="left">Operating Systems</h5> <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 </div>
