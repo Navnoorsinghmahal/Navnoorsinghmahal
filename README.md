@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Navnoorsinghmahal.Navnoorsinghmahal" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👋;+I'm+Navnoor+Singh+Mahal!;+2nd+Year+CS+Student+at+UofT;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👋;+I'm+Navnoor+Singh+Mahal!;+3rd+Year+CS+Student+at+UofT;" />
 </h1>
 
 
