@@ -7,17 +7,13 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navnoorsinghmahal&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github.com/Navnoorsinghmahal)
 
-<h2 align="left">A passionate Computer Science sophomore at UofT</h2>
+<h2 align="left">A passionate Computer Science third year student at UofT</h2>
 <br/>
 <div align="left">
 
  🎓 University: **University of Toronto, Canada**
 
  📚 Bachelors in: **Computer Science**
-
- 🔭 Interning at: **Veenus Mind Media** as a full-stack intern
-
- 🌱 I’m currently learning: **Web Development, Data Visualization**
 
  ⚡ Fun fact: **I enjoy exploring new technologies and working on innovative projects!**
 
